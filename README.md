@@ -126,5 +126,13 @@ It provides a structured way to manage hospital records and transform raw operat
 
 "View Hospital Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQAsr3WQcdBwSI4e-YjpkvR-Abwjm3_kwTDLUm7pkJsT2XM?e=podVdV)
 
+🎯 Career Focus
+
+I am interested in opportunities in Data Analysis, IT Support, IT & Data, Business Operations, and related technology roles where I can apply data and technology to solve business problems.
+
+---
+
+Tools: Microsoft Excel | Power BI | SQL | Power Query
+
  
 
