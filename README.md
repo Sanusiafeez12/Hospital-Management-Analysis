@@ -121,7 +121,8 @@ It provides a structured way to manage hospital records and transform raw operat
 ## Project Link
 
 📄 View Project Presentation (PPTX)
- Analysis Presentation" ()
+ Analysis Presentation" (https://1drv.ms/p/c/1f6c66d9acbb9ca2/IQDo9QrVbx7KSIz1smz7jprAAZ_WrPWkj_Wh2IEhbe1iv48?e=WMLlnR
+)
 
 
 "View Hospital Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQAsr3WQcdBwSI4e-YjpkvR-Abwjm3_kwTDLUm7pkJsT2XM?e=podVdV)
