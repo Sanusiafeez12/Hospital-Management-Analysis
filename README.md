@@ -118,11 +118,12 @@ The project demonstrates how Excel can be used to build a practical hospital man
 
 It provides a structured way to manage hospital records and transform raw operational data into useful, decision-ready business information — such as flagging that 64% of billed revenue is still outstanding, that bed occupancy sits at just 39% (leaving room for more admissions), and that two drug lines need urgent reordering.
 
-## Project Presentation
+## Project Link
 
 📄 View Project Presentation (PPTX)
  Analysis Presentation" ()
 
 View Excel Project 
+()
  
 
